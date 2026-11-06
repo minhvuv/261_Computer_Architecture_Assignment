@@ -3,9 +3,7 @@
 Repository này lưu trữ mã nguồn và tài liệu báo cáo cho bài tập lớn môn **Kiến trúc máy tính** tại Trường Đại học Bách Khoa - ĐHQG TP.HCM (HCMUT).
 
 ## 👥 Thông tin sinh viên
-- **Họ và tên:** Vũ Như Hoàng Minh
-- **MSSV:** [Nhập MSSV]
-- **Lớp/Nhóm:** [Nhập Lớp/Nhóm - ví dụ: L01 - Nhóm 5]
+
 
 ## 📝 Mô tả dự án
 Dự án yêu cầu lập trình và mô phỏng một số bài toán cụ thể bằng ngôn ngữ máy cấp thấp. Mục tiêu chính là áp dụng các kiến thức về tổ chức bộ nhớ, tập lệnh (Instruction Set), và kiến trúc vi xử lý để tối ưu hóa chương trình.
