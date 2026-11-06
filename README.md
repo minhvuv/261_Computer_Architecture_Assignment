@@ -9,8 +9,6 @@ Repository này lưu trữ mã nguồn và tài liệu báo cáo cho bài tập 
 Dự án yêu cầu lập trình và mô phỏng một số bài toán cụ thể bằng ngôn ngữ máy cấp thấp. Mục tiêu chính là áp dụng các kiến thức về tổ chức bộ nhớ, tập lệnh (Instruction Set), và kiến trúc vi xử lý để tối ưu hóa chương trình.
 
 **Các tính năng/yêu cầu đã thực hiện:**
-- [Tên chức năng hoặc thuật toán 1 - ví dụ: Xử lý chuỗi]
-- [Tên chức năng hoặc thuật toán 2 - ví dụ: Tính toán ma trận]
 - Đảm bảo tính nhất quán giữa file `.asm` và file báo cáo.
 
 ## 🛠️ Công cụ và Môi trường (Tech Stack)
