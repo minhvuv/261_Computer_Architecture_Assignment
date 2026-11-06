@@ -12,9 +12,9 @@ Dự án yêu cầu lập trình và mô phỏng một số bài toán cụ th�
 - Đảm bảo tính nhất quán giữa file `.asm` và file báo cáo.
 
 ## 🛠️ Công cụ và Môi trường (Tech Stack)
-- **Ngôn ngữ:** Assembly (MIPS / RISC-V)
-- **Trình mô phỏng (Simulator):** [MARS / RARS / SPIM - chọn 1 cái]
-- **IDE/Text Editor:** Visual Studio Code / [Tên Editor khác]
+- **Ngôn ngữ:** Assembly MIPS 
+- **Trình mô phỏng (Simulator):** MARS
+- **IDE/Text Editor:** Visual Studio Code
 
 ## 📁 Cấu trúc thư mục
 
